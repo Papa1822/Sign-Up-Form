@@ -21,6 +21,8 @@ color: white;
     
     background-color: 
     rgba(0, 0, 0, 0.5);
+
+
     
     
 
@@ -45,7 +47,11 @@ position: absolute;
 top: 5rem;
 left : 8rem;
 }
-
-
+.all{
+    display: flex;
+}
+.form{
+    background-color: white;
+}
     
 
