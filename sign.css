@@ -10,14 +10,41 @@ background-color: black;
 .f-label{
 font-size: 5rem;
 color: white;
+
+
 }
 .onleaves {
     display: flex;
 
+    
+    margin: 30px;
+    position: relative;
+    background-color: black;
+    
+    
+
+}
+
+
+.next{
+    padding-top: 2rem;
+    
 }
 h2 {
     font-family: Norse-bold;
 }
+.main{
+position: relative;
+top: 0;
+left: 0;
+}
+.onleaves{
+    
+position: absolute;
+top: 5rem;
+left : 8rem;
+}
+
 
     
 
