@@ -53,7 +53,7 @@ left : 8rem;
 }
 .super{
     background-color: rgba(245, 245, 245, 0.941);
-    padding-top: 5rem;
+    padding-top: 2rem;
     padding-left: 3rem;
     padding-right: 3rem;
     padding-bottom: 2rem;
@@ -69,6 +69,7 @@ left : 8rem;
     gap: 40px;
     padding: 20px;
     padding-bottom: 40px;
+    box-shadow: 20px 20px 50px grey;
 }
 
 .form-title{
