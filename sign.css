@@ -93,3 +93,13 @@ width: 40%;
     border-radius: 0.4rem;
     
 }
+.last{
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+
+@media (max-width: 850px) {
+.all{
+    display: flex;
+    flex-direction: column;
+}
